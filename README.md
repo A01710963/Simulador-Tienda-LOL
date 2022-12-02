@@ -20,6 +20,7 @@ Correr en linux: "/a.out"
 Correr en windows: "a.exe"
 
 #Correciones
+
 Para este programa se relizaron las siguientes correcciones:
 
 1.- Se modifico el UML
